@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+    .success-box {
+        margin-top: 40px;
+        background: #1a1a1a;
+        padding: 20px;
+        border-radius: 15px;
+        border: 1px solid #333;
+    }
+</style><!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
