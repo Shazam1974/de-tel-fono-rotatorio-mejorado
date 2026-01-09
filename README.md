@@ -1,4 +1,5 @@
-    .success-box {
+<h1 class="titulo-animado">Manuel Ramírez Preza</h1>
+.success-box {
         margin-top: 40px;
         background: #1a1a1a;
         padding: 20px;
